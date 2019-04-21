@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1547682382 source:c:\users\kamil\desktop\projekty\projekt3\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Headlines.h"
+	<fstream>
+
+1547668276 source:c:\users\kamil\desktop\projekty\projekt3\podloze.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Headlines.h"
+
+1547660948 source:c:\users\kamil\desktop\projekty\projekt3\stanowisko.cpp
+	<iostream>
+	<string>
+	"Headlines.h"
+	<fstream>
+
+1547682382 c:\users\kamil\desktop\projekty\projekt3\headlines.h
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+	<queue>
+
+1547682381 source:c:\users\kamil\desktop\projekty\projekt3\main_func.cpp
+	<iostream>
+	<string>
+	"Headlines.h"
+	<vector>
+
+1547642207 source:c:\users\kamil\desktop\projekty\check\main_func.cpp
+	<iostream>
+	<string>
+	"Headlines.h"
+	<vector>
+
+1547573238 c:\users\kamil\desktop\projekty\check\headlines.h
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+	<queue>
+
+1547642081 source:c:\users\kamil\desktop\projekty\check\podloze.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Headlines.h"
+
+1547660167 source:c:\users\kamil\desktop\projekty\check\stanowisko.cpp
+	<iostream>
+	<string>
+	"Headlines.h"
+	<fstream>
+
+1547659419 source:c:\users\kamil\desktop\projekty\check\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Headlines.h"
+	<fstream>
+
